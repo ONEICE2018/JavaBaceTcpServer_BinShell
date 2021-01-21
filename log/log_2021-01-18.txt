@@ -1,0 +1,9 @@
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin:WS725M.bin开始传输
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin:WS725M.bin开始传输
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin文件传输完毕
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin:WS725M.bin开始传输
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin文件传输完毕
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin:WS725M.bin开始传输
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin:WS725M.bin开始传输
+2021-01-18:Socket[addr=/192.168.1.101,port=50650,localport=9981]:bin文件传输完毕
+2021-01-19:Socket[addr=/192.168.1.101,port=50650,localport=9981]:客户端主动断开连接了
