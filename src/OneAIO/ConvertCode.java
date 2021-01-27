@@ -1,8 +1,23 @@
+package OneAIO;
 
+import java.io.UnsupportedEncodingException;
+import java.nio.ByteBuffer;
 import java.util.Iterator;
 import java.util.List;
 
 public class ConvertCode {
+
+	public ByteBuffer string2ByteBuffer(String data) {
+		try {
+			return ByteBuffer.wrap(data.getBytes("utf-8"));
+		} catch (UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			return null;
+		}
+
+	}
+
 	/**
 	 * @Title:bytes2HexString @Description:字节数组转16进制字符串 @param b 字节数组 @return
 	 *                        16进制字符串 @throws
